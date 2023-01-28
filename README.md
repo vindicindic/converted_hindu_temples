@@ -16,3 +16,5 @@ A list of Hindu temples that have been converted or modified or used to build Is
 3. Finally, checked data manually and made manual edits to get the final result.
 
 #### Please suggest any edits or corrections by writing to vindicindic@gmail.com
+
+#### Please note data is missing for some states, e.g. Arunachal Pradesh, Assam etc.
