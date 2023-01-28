@@ -6,6 +6,8 @@ A list of Hindu temples that have been converted or modified or used to build Is
 
 ![n_converted_hindu_temples_by_state](count_by_state.png)
 
+![n_converted_hindu_temples_by_state_map](map_count_by_state.png)
+
 #### Source of data: Hindu Temples What Happened To Them by Sitaram Goel
 
 #### Steps:
